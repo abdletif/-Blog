@@ -30,6 +30,6 @@ now you can visit localhost:8000 and see the project
 
 HomePage
 
-![Uploading 1.PNG…]()
+
 
 
